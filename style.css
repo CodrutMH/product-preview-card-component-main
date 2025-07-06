@@ -15,7 +15,7 @@ body {
 }
 main {
   display: flex;
-  width: 550px;
+  width: 600px;
   height: 400px;
   background-color: white;
   border-radius: 10px;
@@ -42,6 +42,7 @@ main {
 }
 
 .label {
+  padding: 0;
   letter-spacing: 0.3rem;
   font-size: 0.75rem;
   color: hsl(228, 12%, 48%);
